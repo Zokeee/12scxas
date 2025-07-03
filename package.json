@@ -1,0 +1,23 @@
+{
+  "name": "solana-nft-tool",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.19.7",
+    "@solana/wallet-adapter-base": "^0.9.20",
+    "@solana/wallet-adapter-react": "^0.15.20",
+    "@solana/wallet-adapter-react-ui": "^0.10.7",
+    "@solana/wallet-adapter-wallets": "^0.18.1",
+    "@solana/web3.js": "^1.92.3",
+    "jszip": "^3.10.1",
+    "next": "13.4.19",
+    "papaparse": "^5.4.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
